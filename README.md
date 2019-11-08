@@ -1,4 +1,5 @@
 # hello-world
 Just to make sure I don't do (too) much stupid shi-
 
-Wow, so much space for activities! 
+But that means somebody can come and set up shop!
+
